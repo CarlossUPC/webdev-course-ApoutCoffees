@@ -43,7 +43,7 @@ Si quieres saltar a una lección específica, simplemente sigue estos pasos:
 
 ### Enlace a Videos del Curso
 
-[COMENTARIO: Aquí va el enlace a la lista de reproducción de YouTube con los 7 videos.](https://www.youtube.com/)
+[Lista de Reproducción de Lecciones en orden.](https://youtube.com/playlist?list=PLEw56RksKjQK3-kpgHS_wZ3_Gwl9AgY1y&si=DtXcwoYT1CTL7I74)
 
 ---
 **Desarrollado por:** CoffeeCup
