@@ -25,12 +25,12 @@ Si quieres saltar a una lección específica, simplemente sigue estos pasos:
 | Lección | Título | Duración Aprox. | Conceptos Principales | Enlace al Archivo Final |
 |:--------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | **1** | Introducción: HTML vs. CSS | 5 min | La Analogía de la Casa (Estructura vs. Estilo). | N/A |
-| **2** | HTML: Estructura Básica y Links | 10 min | Estructura Canónica (<html>, <head>, <body>) y conexión <link>. | [Código Final L2](completed-examples/L2_final.html |
-| **3** | HTML: Listas, Imágenes y Anclas | 12 min | <ul>, <img> (alt), Navegación con id y href. | [Código Final L3](completed-examples/L3_final.html |
-| **4** | **CSS I:** Estilos Globales y Texto | 10 min | Selectores, body, Colores Hex, padding-top: 60px;. | [Código Final L4](completed-examples/L4_final.css |
-| **5** | **CSS II:** El Modelo de Caja (Box Model) | 8 min | Contenedores (<div>), Centrado con margin: auto;, padding y border-radius. | [Código Final L5](completed-examples/L5_final.css |
-| **6** | **CSS III:** Toolbar Fija y Flexbox | 10 min | position: fixed;, display: flex; y justify-content: space-between; para la alineación. | [Código Final L6](completed-examples/L6_final.css |
-| **7** | Interactividad y Conclusión | 5 min | Pseudoclase :hover, scroll-behavior: smooth, y Consejos Finales. | [Código Final L7](completed-examples/L7_final.css |
+| **2** | HTML: Estructura Básica y Links | 10 min | Estructura Canónica (<html>, <head>, <body>) y conexión <link>. | [Código Final L2](completed-examples/L2_final.html) |
+| **3** | HTML: Listas, Imágenes y Anclas | 12 min | <ul>, <img> (alt), Navegación con id y href. | [Código Final L3](completed-examples/L3_final.html) |
+| **4** | **CSS I:** Estilos Globales y Texto | 10 min | Selectores, body, Colores Hex, padding-top: 60px;. | [Código Final L4](completed-examples/L4_final.css) |
+| **5** | **CSS II:** El Modelo de Caja (Box Model) | 8 min | Contenedores (<div>), Centrado con margin: auto;, padding y border-radius. | [Código Final L5](completed-examples/L5_final.css) |
+| **6** | **CSS III:** Toolbar Fija y Flexbox | 10 min | position: fixed;, display: flex; y justify-content: space-between; para la alineación. | [Código Final L6](completed-examples/L6_final.css) |
+| **7** | Interactividad y Conclusión | 5 min | Pseudoclase :hover, scroll-behavior: smooth, y Consejos Finales. | [Código Final L7](completed-examples/L7_final.css) |
 
 ---
 
